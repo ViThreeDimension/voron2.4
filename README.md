@@ -1,3 +1,5 @@
+![Voron 2.4 - 1631](/img/Voron2.4.jpg)
+
 # Configuration of Voron 2.4 (2.1631) - 300mm
 Electronics:
 - Spider v1 + TMC2209
@@ -35,5 +37,9 @@ https://github.com/protoloft/klipper_z_calibration
 
 ## Purge bucket
 Configuration can be found in [Decontaminator and purge bucket](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber)
+
+## Adaptive Bed Mesh
+Purpose is to mesh only the Area necessary to print.
+Source can be found in Frix Repo : [Adaptive Bed Mesh](https://github.com/Frix-x/klipper-voron-V2/blob/main/macros/probing/bed_mesh.cfg)
 
 
