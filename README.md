@@ -1,5 +1,7 @@
 ![Voron 2.4 - 1631](/img/Voron2.4.jpg)
 
+[Trident's little brother](https://github.com/ViThreeDimension/voron_trident_350)
+
 # Configuration of Voron 2.4 (2.1631) - 300mm
 Electronics:
 - Spider v1 + TMC2209
